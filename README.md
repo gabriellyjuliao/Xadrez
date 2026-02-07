@@ -57,9 +57,9 @@ O movimento do Cavalo foi aprimorado para:
 
 Neste caso, são utilizados loops com múltiplas condições, além dos comandos `continue` e `break` para controlar o fluxo do programa de forma mais precisa.
 
-1. O programa foi desenvolvido e testado no Visual Studio Code.
-Passos para executar:
-Abra o projeto no VS Code
-Abra o arquivo .c
-Clique em Run / Compile & Run
-O resultado logo será exibido diretamente no terminal.
+O programa foi desenvolvido e testado no Visual Studio Code.
+- Passos para executar:
+1. Abra o projeto no VS Code
+2. Abra o arquivo .c
+3. Clique em Run / Compile & Run
+4. O resultado logo será exibido diretamente no terminal.
