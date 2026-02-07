@@ -56,3 +56,10 @@ O movimento do Cavalo foi aprimorado para:
 - Uma casa para a direita
 
 Neste caso, são utilizados loops com múltiplas condições, além dos comandos `continue` e `break` para controlar o fluxo do programa de forma mais precisa.
+
+- O programa foi desenvolvido e testado no Visual Studio Code.
+Passos para executar:
+Abra o projeto no VS Code
+Abra o arquivo .c
+Clique em Run / Compile & Run
+O resultado logo será exibido diretamente no terminal.
